@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PersonApp</string>
+    <string name="total_person">Total person</string>
+    <string name="last_added_person">Last added person</string>
+    <string name="no_data_n_please_pull_to_refresh">No Data! \n Please pull to refresh</string>
+    <string name="end_of_the_list">End of the list!</string>
+    <string name="no_new_added">, No New Added</string>
+</resources>
