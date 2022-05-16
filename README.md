@@ -1,1 +1,2 @@
-# PersonList with DataSource.  Kotlin + MVVM + Recyclerview + Pagination
+# PersonList with DataSource.  
+Kotlin + MVVM + Recyclerview + Pagination
